@@ -1,7 +1,10 @@
 ### Hi there 👋
-#### - 🔭 I’m currently building a todo app using ReactJS and Firebase.
-#### - 🌱 I’m currently learning React JS by building projects.
+###  It is good to see you landing on my profile.
+#### My name is Sonali. I am currently working at TCS in Frontend development.
+#### - 🔭 I’m currently building an E-Commerce App using React and Firebase.
+#### - 🌱 Learning Frontend development by building something everyday.
 #### - 📫 How to reach me: https://www.linkedin.com/in/sonali-gpt/
+#### - :pushpin: Portfolio: https://www.sg-gupta.netlify.app/
 #### - 😄 Pronouns: She/Her
 #### - ⚡ Fun fact: I absolutely adore cats.
 
