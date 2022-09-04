@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###  It is good to see you landing on my profile.
 #### My name is Sonali. I am currently working at TCS in Frontend development.
-#### - 🔭 I’m currently building an E-Commerce App using React and Firebase.
+#### - 🔭 I’m currently learning Redux.
 #### - 🌱 Learning Frontend development by building something everyday.
 #### - 📫 How to reach me: https://www.linkedin.com/in/sonali-gpt/
 #### - :pushpin: Portfolio: https://sg-gupta.netlify.app/
