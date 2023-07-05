@@ -2,7 +2,7 @@
 ###  It is good to see you landing on my profile.
 #### My name is Sonali. I am currently working at TCS in Frontend development.
 #### - 🔭 I’m currently learning Redux.
-#### - 🌱 Learning Frontend development by building something everyday.
+#### - 🌱 Learning Frontend development by building something every day.
 #### - 📫 How to reach me: https://www.linkedin.com/in/sonali-gpt/
 #### - :pushpin: Portfolio: https://sg-gupta.netlify.app/
 #### - 😄 Pronouns: She/Her
